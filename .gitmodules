@@ -1,32 +1,32 @@
 [submodule "llm-d-deployer"]
 	path = llm-d-deployer
-	url = git@github.com:jazzsir/llm-d-deployer.git
+	url = https://github.com/jazzsir/llm-d-deployer.git
     branch = main
 [submodule "llm-d-inference-scheduler"]
 	path = llm-d-inference-scheduler
-	url = git@github.com:jazzsir/llm-d-inference-scheduler.git
+	url = https://github.com/jazzsir/llm-d-inference-scheduler.git
     branch = main
 [submodule "llm-d-inference-sim"]
 	path = llm-d-inference-sim
-	url = git@github.com:jazzsir/llm-d-inference-sim.git
+	url = https://github.com/jazzsir/llm-d-inference-sim.git
     branch = main
 [submodule "llm-d-kv-cache-manager"]
 	path = llm-d-kv-cache-manager
-	url = git@github.com:jazzsir/llm-d-kv-cache-manager.git
+	url = https://github.com/jazzsir/llm-d-kv-cache-manager.git
     branch = main
 [submodule "llm-d-model-service"]
 	path = llm-d-model-service
-	url = git@github.com:jazzsir/llm-d-model-service.git
+	url = https://github.com/jazzsir/llm-d-model-service.git
     branch = main
 [submodule "llm-d-pd-utils"]
 	path = llm-d-pd-utils
-	url = git@github.com:jazzsir/llm-d-pd-utils.git
+	url = https://github.com/jazzsir/llm-d-pd-utils.git
     branch = main
 [submodule "llm-d-routing-sidecar"]
 	path = llm-d-routing-sidecar
-	url = git@github.com:jazzsir/llm-d-routing-sidecar.git
+	url = https://github.com/jazzsir/llm-d-routing-sidecar.git
     branch = main
 [submodule "llm-d"]
 	path = llm-d
-	url = git@github.com:jazzsir/llm-d.git
+	url = https://github.com/jazzsir/llm-d.git
     branch = dev
